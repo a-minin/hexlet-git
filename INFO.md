@@ -1,4 +1,4 @@
 git is awesome!
 new line
-experiment with amend
+experiment with amend is closed
 new data
